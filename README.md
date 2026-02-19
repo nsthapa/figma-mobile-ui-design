@@ -1,5 +1,7 @@
 # Mobile App UI Design – Figma Project
 
+<img width="1909" height="1086" alt="Screenshot 2026-02-19 151702" src="https://github.com/user-attachments/assets/987f365d-6ad8-4ee5-8c96-4a563449750d" />
+
 ## About
 This is a mobile UI design project created using Figma as part of a university assignment.
 
