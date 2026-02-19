@@ -13,4 +13,4 @@ This is a mobile UI design project created using Figma as part of a university a
 - Figma
 
 ## Figma Link
-PASTE YOUR FIGMA LINK HERE
+https://www.figma.com/design/KqM2JtlJujgoT5oORb4eWR/Project-no.1?node-id=0-1&t=e51Q4qCGndAGZjZX-1
